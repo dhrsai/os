@@ -1,0 +1,6 @@
+com\nagarro\orderservice\model\User.class
+com\nagarro\orderservice\resource\OrderService.class
+com\nagarro\orderservice\resource\OrderResource.class
+com\nagarro\orderservice\model\Order.class
+com\nagarro\orderservice\OrderServiceApplication.class
+com\nagarro\orderservice\model\OrderResponse.class
